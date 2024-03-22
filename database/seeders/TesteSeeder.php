@@ -14,7 +14,7 @@ class TesteSeeder extends Seeder
     public function run(): void
     {
         Teste::create([
-            'nome'=> "Jonathan Xavier",
+            'nome'=> 'Jonathan Xavier',
             'cpf' => '05555555555',
             'peso' => 50,
             'idade' => 20,

@@ -18,6 +18,6 @@ class Teste extends Model
         'cpf',
         'peso',
         'idade',
-        'data_nascimento'
+        'data_nascimento',
     ];
 }
